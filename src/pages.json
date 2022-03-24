@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/start/index",
+			"style": {
+				"navigationBarTitleText": "启动页"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "去除水印",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
