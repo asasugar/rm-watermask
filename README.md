@@ -1,4 +1,4 @@
-# rm-watermark
+# rm-watermask
 去除水印Node脚本（支持抖音视频）
 
 ## Node >= 12
