@@ -1,5 +1,5 @@
-# rm-watermark-app
-去除水印App（支持抖音视频）
+# rm-watermark
+去除水印Node脚本（支持抖音视频）
 
 ## Node >= 12
 ## How to use ?
